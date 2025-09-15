@@ -1,10 +1,10 @@
-import './App.css'
+import SetcionServices from "./components/section-services/SectionService"
 
 function App() {
 
   return (
     <>
-      
+      <SetcionServices />
     </>
   )
 }
