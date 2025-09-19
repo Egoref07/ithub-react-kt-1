@@ -1,4 +1,4 @@
-import Service from "../service/service"
+import Service from '../service/Service'
 import classes from './SectionService.module.css'
 
 export default function SetcionServices() {
